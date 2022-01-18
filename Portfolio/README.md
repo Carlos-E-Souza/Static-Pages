@@ -11,7 +11,7 @@
 
 ## 👁️ Preview
 
-<img >
+<img src="https://user-images.githubusercontent.com/80905912/150025138-d89869af-2b5e-468a-bc2d-c33b8d8effe9.PNG" alt="Page Preview" width=700px heigth=800px>
 
 ## 🚀 Technologies
 
